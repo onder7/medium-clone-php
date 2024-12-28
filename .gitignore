@@ -1,0 +1,30 @@
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Configuration files with sensitive data
+config.php
+connect.php
+
+# Temporary files
+*.log
+*.cache
+/temp/
+
+# Uploads and user content
+/images/profile/*
+!/images/profile/default.jpg
+
+# Dependencies
+/vendor/
+
+# Environment specific files
+.env
+.env.local
+*.ini
+
+# Operating System Files
+.DS_Store
+Thumbs.db
