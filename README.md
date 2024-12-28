@@ -1,4 +1,4 @@
-# Broomble Blog Platform
+# Onder Online Blog Platform
 
 A simple blog platform built with PHP and MySQL.
 
@@ -20,7 +20,7 @@ A simple blog platform built with PHP and MySQL.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/broomble.git
+git clone https://github.com/yourusername/broomble.git](https://github.com/onder7/medium-clone-php
 ```
 
 2. Create a MySQL database and import the schema
@@ -68,7 +68,7 @@ SQL schema is available in `database/schema.sql`
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
+Önder AKÖZ @onder7
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
